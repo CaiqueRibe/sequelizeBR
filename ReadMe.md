@@ -13,12 +13,12 @@ Com isso, você vai aprender a como utilizar os principais bancos de dados SQL d
 
 ### Git Commands
 
-mkdir sequelize-demo
-cd sequelize-demo
-npm init -y
+mkdir sequelize-demo<br>
+cd sequelize-demo<br>
+npm init -y<br>
 npm i sequelize mysql2
 
-node db.js
+node db.js<br>
 node index.js
 
 ### Observations
